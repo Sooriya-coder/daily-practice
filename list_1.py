@@ -1,4 +1,4 @@
-#list can be declared oro denoted by square brackets[]
+#list can be declared or denoted by square brackets[]
 #list is ordered 
 #list is mutable 
 #we can add any kind of data type in list
